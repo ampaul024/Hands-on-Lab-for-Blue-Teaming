@@ -15,5 +15,9 @@ All labs, challenges, and investigations documented here are performed in author
 👤 Author
 John Paul De Guzman
 
+Completed Modules/Path:
+HackTheBox - SOC Analyst Path: https://academy.hackthebox.com/achievement/2350832/path/390
+TryHackMe - SOC L1 Path: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-U10BHCU6VU.pdf
+
 GitHub: @ampaul024
 LinkedIn: (https://www.linkedin.com/in/johnpaul-dg/)
