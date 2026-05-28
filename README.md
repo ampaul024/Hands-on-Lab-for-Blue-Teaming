@@ -10,6 +10,7 @@ Create reusable references and cheatsheets
 Track progress across different security domains
 
 ⚠️ Disclaimer
+
 All labs, challenges, and investigations documented here are performed in authorized, controlled environments for educational purposes only. Nothing in this repository should be used for unauthorized or illegal activity.
 
 👤 Author
